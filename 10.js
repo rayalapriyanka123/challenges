@@ -23,5 +23,5 @@ function checkpal(p)
     if(p==y.join())
         return 1;
     else
-        return 0;
+        return 0;2
 }
